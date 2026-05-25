@@ -34,7 +34,7 @@
   "homepage": "https://github.com/hausofweb/actions-aws-ssm-params-to-env#readme",
   "dependencies": {
     "@actions/core": "^3.0.0",
-    "@aws-sdk/client-ssm": "^3.1018.0"
+    "@aws-sdk/client-ssm": "^3.1053.0"
   },
   "devDependencies": {
     "@eslint/compat": "^2.0.3",
